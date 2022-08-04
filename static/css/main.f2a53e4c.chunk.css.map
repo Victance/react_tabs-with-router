@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/Header/Header.scss"],"names":[],"mappings":"AAAA,YACE,wBAAyB,CACzB,aAAc","file":"main.f2a53e4c.chunk.css","sourcesContent":[".is--active {\n  background-color: #fafafa;\n  color: #485fc7;\n}\n"]}
